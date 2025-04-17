@@ -22,7 +22,6 @@ async function searchProducts(searchTerm: string) {
 export default async function SearchPage({searchParams}: {searchParams: {search: string}}) {
     
     const {search} = await searchParams
-    console.log(search)
     const products =  await searchProducts(search)
 
     return (
