@@ -66,7 +66,7 @@ quiosco-next-ts/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/quiosco-next-ts.git
+   git clone https://github.com/VicVaporub14/quiosco-food-next.git
    cd quiosco-next-ts
    ```
 
@@ -114,9 +114,5 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 3. Realiza tus cambios y haz un commit (`git commit -m 'Agrega nueva funcionalidad'`).
 4. Haz un push a tu rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
 
 ¡Gracias por usar Quiosco App con Next.js y TypeScript! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue.
