@@ -1,6 +1,5 @@
 import ProductCard from "@/components/products/ProductCard";
 import Heading from "@/components/ui/Heading";
-import { products } from "@/prisma/data/products";
 import { prisma } from "@/src/lib/prisma";
 
 async function getProducts(category: string) {
